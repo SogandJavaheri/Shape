@@ -36,9 +36,9 @@ public class Rectangle extends Shape {
         System.out.println("Area of Rectangle is " + area);
     }
 
-    @Override
-    public void perimeter() {
-        double perimeter = width * height;
-        System.out.println("Perimeter of Rectangle is " + perimeter);
-    }
+//    @Override
+//    public void perimeter() {
+//        double perimeter = width * height;
+//        System.out.println("Perimeter of Rectangle is " + perimeter);
+//    }
 }
